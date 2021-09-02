@@ -1,1 +1,1 @@
-RRgit-test-project
+git-test-project
